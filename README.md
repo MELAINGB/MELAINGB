@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MELAINGB
+- 👋 Hi, I’m @Melain GB
 - 👀 I’m interested in developpement web
 - 🌱 I’m currently learning boostrap
 - 💞️ I’m looking to collaborate on ...
