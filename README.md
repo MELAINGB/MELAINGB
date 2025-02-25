@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Melain GB
 - 👀 I’m interested in developpement web
-- 🌱 I’m currently learning boostrap
+- 🌱 I’m currently learning boostrap, JavaScript, Laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by my portfolio
 - 😄 Pronouns: ...
