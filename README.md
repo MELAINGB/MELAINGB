@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Melain GB
 - 👀 I’m interested in developpement web junior
-- 🌱 I’m currently learning JavaScript, Robotframework, python, nodejs 
+- 🌱 I’m currently learning JavaScript, python, angular, symfony  
 - 💞️ I am looking to collaborate on IT projects and I am also seeking collaborators to work on projects together.
 - 📫 How to reach me by my portfolio
 - 😄 Pronouns: ...
